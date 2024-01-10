@@ -1,10 +1,10 @@
 # FULL-STACK
 FULL-STACK WEB DEVELOPMENT PROJECTS
-<h2>FRONTEND PROJECTS</h2>
-<h3>HTML CSS PROJECTS</h3>
+<h3>FRONTEND PROJECTS</h3>
+<h4>HTML CSS PROJECTS</h4>
 1.Survey Form
-2.Login Form
-3.News Website
-4.Technical documentation Page
-5.Youtube Clone
-6.Ecommerce Website
+1.Login Form
+1.News Website
+1.Technical documentation Page
+1.Youtube Clone
+1.Ecommerce Website
