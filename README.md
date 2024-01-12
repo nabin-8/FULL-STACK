@@ -111,3 +111,67 @@
    1. JavaScript JSON
    1. JS Async
    1. JavaScript Local Storage
+
+   ### Tailwind CSS
+   1.TailwindCss Introduction
+   1. TailwindCss Fonts & Sizing
+   1. TailwindCss Margins, Padding & Borders
+   1. TailwindCss Background Color : 43:36
+   1. TailwindCss Square Bracket Notation
+   1. Creating Responsive Designs
+   1. Creating Hover, Focus & Other States
+   1. Creating @apply directive in Tailwind
+   1. Creating Customizing Tailwind CSS using tailwind.config.js file
+   1. Flex Box
+
+   ### React Js
+   1. React Introduction
+   1. React Setup
+   1. JavaScript Refresher
+   1. React JSX
+   1. React Components
+   1. React Props
+   1. ReactJs Events
+   1. React Conditional Rendering
+   1. React Lists Rendering
+   1. React Router
+   1. React Css Styling
+   1. React Hook Introduction
+   1. React useState Hook
+   1. React useEffect Hook
+   1. React useReducer Hook
+   1. React useMemo Hook
+   1. React callback Hook
+   1. React Context Api Hook
+   1. React useRef Hook
+   1. React Fetch Api
+   1. React Fetching data using axios
+   1. React Animation
+   1. Protected Routes In React Js
+   1. Upload Images To cloudinary in React Js
+   
+   ### Redux Toolkit
+   1. What is Redux
+   1. To understand Redux, you must understand the “one-way data flow”
+   1. known as unidirectional data flow.
+   1. Why Use Redux
+   1. Install Redux Toolkit and React-Redux
+   1. Create a Redux Store
+   1. Provide the Redux Store to React
+   1. Create a Redux State Slice
+   1. Add Slice Reducers to the Store
+   1. Use Redux State and Actions in React Components
+   1.  Get And Update state in Redux Store
+   1. -> useSelector
+   1. -> useDispatch
+   1. Redux Dev Tool
+   1. Create Ecommerce Cart System [ Data Manage ]
+   
+   ### Firebase
+   1. Introduction 
+   1. Features of Firebase 
+   1. -> Authentication 
+   1. -> Cloud Firestore 
+   1. -> Hosting 
+   1. -> Storage 
+   1. -> Firebase Cloud Messaging(FCM) 
