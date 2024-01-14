@@ -1,0 +1,460 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#stickeyy{
+ position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+}
+#stickeyy::after{
+    nav-down: 200px;
+    background-color: #F57224;
+}
+#navdiv{
+   
+    width: 100%;
+    height: 50px;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    background-color:#ECECEC ;
+}
+.higlight{
+    color: #F57224;
+}
+
+#navdiv span:hover{
+    color: #F57224;
+    cursor: pointer;
+    text-decoration: underline;
+    
+}
+#Nepal-img{
+    height: 35px;
+    width: 35px;
+}
+
+/* lolocontainer section */
+#lolocontainer{
+    display: flex;
+    width: auto;
+    height: 100px;
+    align-items: center;
+}
+
+#darazlogo{
+    margin-left: 200px;
+    margin-right: 100px;
+}
+#search input{
+    width: 600px;
+    height: 45px;
+    font-size: large;
+    background-color: #ECECEC;
+    border: none;
+    border-radius: 2px;
+    padding-left: 10px;
+}
+#buy{
+    margin-left: 40px;
+    cursor: pointer;
+}
+
+/* lowerherobanner section */
+#lowerherobanner{
+    width: auto;
+    height: 360px;
+    background-color: #ECECEC;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#catogery{
+    height: 360px;
+    width: 245px;
+    background-color: white;
+    border: 1px solid #706c6c;
+    border-top: none;
+}
+#catogery p{
+    margin-left: 5px;
+    margin-top: 5px;
+    color: #706c6c;
+}
+#catogery p:hover{
+    color: #F57224;
+    cursor: pointer;
+}
+#herobanne{
+    height: 360px;
+    width: 1050px;
+    overflow: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+    
+}
+#herobanne img{
+    height: 360px;
+    width: 1030px;
+    padding-right: 10px;
+    border-radius: 4px;
+}
+
+#imgg{
+    background-color: #ECECEC;
+    width: auto;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#imgg img {
+    height: 200px;
+    width: 985px;
+
+}
+
+/* option section  */
+#optionns{
+ 
+    width: auto;
+    height: auto;
+  
+  
+}
+#optcontainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#optmain{
+  
+    margin-left: 40px;
+    margin-right: 40px;
+    display: flex;
+    gap: 60px;
+}
+#optsecmain{
+    width: 192px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+#optsecmain:hover{
+    color: #F57224;
+border-radius: 30px;
+background: var(--white, #FFF);
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+/* flash shale */
+#flashsale{
+    margin-top:18px ;
+    display: flex;
+    justify-content: center;
+    height: 51px;
+    width: auto;
+   
+
+}
+
+#flashcontaint{
+    width: 1200px;
+    display: flex;
+    align-items: center;
+}
+#onslcolor{
+    color:#F57224;
+    font-weight: 600;
+}
+#saletime{
+    display: flex;
+    align-items: center;
+    margin-left: 150px;
+    margin-right: 100px;
+}
+#box{
+    height: 30px;
+    width: 30px;
+    background-color: #F57224;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 2px;
+    color: white;
+    margin-left: 5px;
+}
+#hll h1 {
+    color: #F57224;
+    font-size: 35px;
+    font-weight: 900;
+}
+
+#button{
+    width: 114px;
+    height: 34px;
+    margin-left: 300px;
+    border: 1px solid #F57224;
+    border-radius: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-self: flex-end;
+}
+
+#button:hover{
+    background-color: #F57224;
+    color: white;
+    cursor: pointer;
+}
+
+/* recitems */
+#recitems{
+    margin-top:10px ;
+    display: flex;
+    justify-content: center;
+    height: 295px;
+    width: auto;
+}
+
+#recitemcontainer{
+    width: 1200px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  
+}
+
+#content-container{
+    width: 161px;
+    height: 255px;
+    padding: 10px;
+   
+}
+#content-container:hover{
+    background: var(--white, #FFF);
+    box-shadow: 0px 4px 2px 0px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+}
+
+#content-container img{
+    height: 161px;
+    width: 161px;
+    border-radius: 2px;
+}
+
+#higlight{
+    color: #F57224;
+    font-weight: 600;
+}
+
+#content-container span{
+    color: #706c6c;
+    text-decoration:line-through;
+}
+
+/* darazmall Section mini section */
+#daeaz-container{
+margin-top: 20px;
+margin-bottom: 20px;
+}
+#daeaz-container #darazmall{
+    margin-left: 18%;
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+#darazcontant{
+    display: flex;
+    justify-content: center;
+}
+#maincontainer{
+ 
+    height: 210px;
+    width: 1116px;
+    display: flex;
+    gap: 28px;
+}
+#darazCon-container{
+    height: 204px;
+    width: 161px;
+    background-color: #ffffff;
+    font-size: 10px;
+    
+}
+#darazCon-container:hover{
+    background: var(--white, #FFF);
+    box-shadow: 2px 5px 2px 0px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+}
+#darazCon-container img{
+    height: 161px;
+    width: 161px;
+}
+#darazCon-container p{
+    font-size: 20px;
+}
+   
+/* catogery section */
+
+    #catogryp{
+        margin-left: 18%;
+        margin-bottom: 10px;
+        font-size: 20px;
+    }
+
+    #catoggery{
+        height: 132px;
+        width: 1116px;
+        display: flex;
+        /* border: 1px solid blue; */
+       
+    }
+    #catogery-content{
+        border-right: 1px solid #D7CCCC;
+        border-bottom: 1px solid #D7CCCC;
+        height: 132px;
+        width: 148px;
+        text-align: center;
+    }
+    #catogery-content:hover{
+        background: var(--white, #FFF);
+         box-shadow: 0px 4px 2px 0px rgba(0, 0, 0, 0.25);
+         cursor: pointer;
+    }
+    #catogery-content img{
+        height: 80px;
+        width: 80px;
+        border-radius: 2px;
+        margin-top: 10px;
+    }
+
+    /* new recomended section from here */
+    #content-recomended{
+        display: flex;
+        justify-content: center;
+    }
+    #rec-content{
+        width: 1200px;
+        height: auto;
+    }
+
+  
+    #recmain-content{
+        height: 310px;
+        width: 189px;
+    }
+    #recmain-content:hover{
+        background: var(--white, #FFF);
+        box-shadow: 0px 4px 2px 0px rgba(0, 0, 0, 0.25);
+        cursor: pointer;
+    }
+#remp{
+    margin-top: 50px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+#mainrec-container{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 25px;
+}
+    #recmain-content img {
+        height:189px ;
+        width: 189px;
+    }
+    #rechiglight{
+        margin-top: 5px;
+        color: #F57224;
+        font-size: 18px;
+        font-weight: 600;
+    }
+    #recmain-content #star{
+        margin-top: 20px;
+        height: 15px;
+        width: 82px;
+    }
+
+
+/* Laege button section  */
+    #down-button{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    #btn-down{
+        height: 47px;
+        width: 389px;
+        border: 1px solid #F57224;
+        border-top: 3px solid #F57224;
+        border-right: 3px solid #F57224;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+        font-size: 20px;
+        border-radius: 2px;
+    }
+
+    #btn-down:hover{
+        cursor: pointer;
+        background-color: #F57224;
+        color: white;
+    }
+
+    /* footer Description section */
+
+   footer{
+        height: 350px;
+        width: auto;
+        background-color: #2E2E54;
+        margin-top: 35px;
+        color: white;
+        display: flex;
+    }
+footer p{
+    font-size: 13px;
+}
+footer h4:hover{
+    cursor: pointer;
+    color: #F57224;
+}
+  #leftnav-container{
+        margin-left: 10%;
+        margin-top: 15px;
+    }
+
+    #Earn-withDaraz{
+        margin-top: 45px;
+    }
+#Darazright-nav{
+    margin-left: 8%;
+    margin-top: 80px;
+}
+
+#nav-logo{
+    margin-left: 20%;
+    margin-top: 50px;
+    display: flex;
+    gap: 30px;
+}
+#navqr{
+    height: 111px;
+    width: 112px;
+}
+
+#navlogo{
+    margin-top: 25px;
+}
+#navh4{
+    color: #F57224;
+}
