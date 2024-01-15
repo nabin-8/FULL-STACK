@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .Demo{
+  font-family: monospace;
+  font-size: 60px;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+} */
