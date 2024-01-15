@@ -80,52 +80,34 @@
    1. Transform, Transition and Animation
    
    ### JAVASCRIPT
-   1. JavaScript Introduction
-   1. JavaScript Where To
-   1. JavaScript Output
-   1. JavaScript Statements
-   1. JavaScript Syntax
-   1. JavaScript Comments
-   1. JavaScript Variables
-   1. JavaScript Let
-   1. JavaScript Var
-   1. JavaScript Const
-   1. JavaScript Operators
-   1. JavaScript Arithmetic
-   1. JavaScript Assignment
-   1. JavaScript Data Types
-   1. JavaScript Functions
-   1. JavaScript Objects
-   1. JavaScript Events
-   1. JavaScript Strings
-   1. JavaScript String Methods
-   1. JavaScript String Search
-   1. JavaScript Template Strings
-   1. JavaScript Numbers
-   1. JavaScript Number Methods
-   1. JavaScript Number Properties
-   1. JavaScript Arrays
-   1. JavaScript Array Methods
-   1. JavaScript Array Search
-   1. JavaScript Sorting Arrays
-   1. JavaScript Array Iteration
-   1. JavaScript Array Const
-   1. JavaScript Date Objects
-   1. JavaScript Math Object
-   1. Javascript Random
-   1. JavaScript Booleans
-   1. JavaScript Comparison and Logical Operators 
-   1. JavaScript if, else, else if, and Switch
-   1. JavaScript Loop [For, For In,For Of, While Loop] 
-   1. JavaScript Maps
-   1. JavaScript typeof
-   1. JavaScript Type Conversion
-   1. JavaScript Errors
-   1. JavaScript Modules
-   1. JavaScript JSON
-   1. JS Async
-   1. JavaScript Local Storage
-
+   |No|Topics|No|Topics
+   |---|---|---|---|
+   |1.  |JavaScript Introduction|26.  |JavaScript Array Methods
+   |2.  |JavaScript Where To|27.      |JavaScript Array Search
+   |3.  |JavaScript Output|28.        |JavaScript Sorting Arrays
+   |4.  |JavaScript Statements|29.    |JavaScript Array Iteration
+   |5.  |JavaScript Syntax|30.        |JavaScript Array Const
+   |6.  |JavaScript Comments|31.      |JavaScript Date Objects
+   |7.  |JavaScript Variables|32.     |JavaScript Math Object
+   |8.  |JavaScript Let|33.           |Javascript Random
+   |9.  |JavaScript Var|34.           |JavaScript Booleans
+   |10. |JavaScript Const|35.         |JavaScript Comparison and Logical Operators 
+   |11. |JavaScript Operators|36.     |JavaScript if, else, else if, and Switch
+   |12. |JavaScript Arithmetic|37.    |JavaScript Loop [For, For In,For Of, While Loop] 
+   |13. |JavaScript Assignment|38.    |JavaScript Maps
+   |14. |JavaScript Data Types|39.    |JavaScript typeof
+   |15. |JavaScript Functions|40.     |JavaScript Type Conversion
+   |16. |JavaScript Objects|41.       |JavaScript Errors
+   |17. |JavaScript Events|42.        |JavaScript Modules
+   |18. |JavaScript Strings|43.       |JavaScript JSON
+   |19. |JavaScript String Methods|44.|JS Async
+   |20. |JavaScript String Search|45. |JavaScript Local Storage
+   |21. |JavaScript Template Strings|
+   |22. |JavaScript Numbers|
+   |23. |JavaScript Number Methods|
+   |24. |JavaScript Number Properties|
+   |25. |JavaScript Arrays|
+   
    ### Tailwind CSS
    1.TailwindCss Introduction
    1. TailwindCss Fonts & Sizing
