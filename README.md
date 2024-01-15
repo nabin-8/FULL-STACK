@@ -8,6 +8,9 @@
 |5. | [Redux ToolKit](#redux-toolkit)
 |6. | [FIREBASE](#firebase)
 ---
+### Download Resources
+   [Link](./Learning/README.md)
+---
    ## FRONTEND PROJECTS
    ### HTML CSS PROJECTS
    1. Survey Form
