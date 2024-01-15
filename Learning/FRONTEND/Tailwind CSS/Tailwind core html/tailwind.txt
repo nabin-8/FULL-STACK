@@ -1,0 +1,31 @@
+Tailwind is used to responsive the website
+it is utility framework of css
+
+Learning in css
+1. Grid Layout
+1. Flex Layout
+1. Mobile Responsive Websites
+1. Default Screen Sizes
+1. Screen Size Customization
+1. Color Classes
+1. Background Classes
+1. Padding Classes
+1. Margin Classes
+1. Project Buildup
+
+What is Tailwind CSS?
+Tailwind CSS is basically a utility-first CSS framework.
+
+Rapidly build modern websites without ever leaving your HTML.
+
+With utility classes, We can style elements on hover, focus, and more.
+
+It is a highly customizable, low-level CSS framework.
+
+This CSS framework packed with classes like flex , pt-4 , text-center and rotate-90 etc..
+
+It's fast, flexible, and reliable — with zero-runtime.
+
+Using responsive utility classes.
+
+Benefits of Tailwind CSS?
