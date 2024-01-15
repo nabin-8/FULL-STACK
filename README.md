@@ -7,6 +7,7 @@
 |4. | [React JS](#react-js)
 |5. | [Redux ToolKit](#redux-toolkit)
 |6. | [FIREBASE](#firebase)
+|7. | [TypeScript](#typescript)
 ---
 ### Download Resources
    [Link](./Learning/README.md)
@@ -46,6 +47,7 @@
    1. Portfolio Project
 
 # Full Stack Web-Development RoadMap (MERN)
+## FRONTEND
    ### HTML
    1. Introduction
    1. Hml Structure
@@ -188,3 +190,36 @@
    1. -> Storage 
    1. -> Firebase Cloud Messaging(FCM)
 
+   ### TypeScript
+   1. TypeScript Introduction
+   1. TypeScript Getting Started
+   1. TypeScript Simple Types
+   1. TypeScript Special Types
+   1. TypeScript Arrays
+   1. TypeScript Tuples
+   1. TypeScript Object Types
+   1. TypeScript Enums
+   1. TypeScript Type Aliases and Interfaces
+   1. TypeScript Union Types
+   1. TypeScript Functions
+   1. TypeScript Casting
+   1. TypeScript Classes
+   1. TypeScript Basic Generics
+   1. TypeScript Utility Types
+   1. TypeScript Keyof
+   1. TypeScript Null & Undefined
+   1. to Use TypeScript with React
+   1. Getting Started
+   1. React and TypeScript Basics
+   1. Three Ways of Defining Prop Types
+   1. #How to Create a Random Users List Application
+   1. How to Store the Users List in State
+   1. How to Display the Users on the Ul
+   1. How to Create a Separate User Component
+   1. How to Create a Separate File for Type Declarations
+   1. How to Display a Loading Indicator
+   1. How to Load Users on Button Click
+   1. How to Handle the Change Event
+
+---
+## BACKEND ---[*TOP*](#full-stack-web-development-projectsroadmap)
