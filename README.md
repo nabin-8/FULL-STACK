@@ -10,9 +10,11 @@
 |6. | [FIREBASE](#firebase)          |13.|[MERN PROJECTS](#mern-stack-project-ideas) |
 |7. | [TypeScript](#typescript)      |14.|[Next JS](#next-js) |
 ---
-### Download Resources
-   [Link](./Learning/README.md)
-   
+### Download Resources / Projects
+   |Download Resources| Projects|
+   |---|---|
+   |[Link](./Learning/README.md)|[Link](./FRONTENDProject/readme.md)|
+
 ---
    ## FRONTEND PROJECTS
    ### HTML CSS PROJECTS
