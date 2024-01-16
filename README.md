@@ -248,4 +248,102 @@
 1. MongoDB Join
 
 ---
-## [*BACKEND*](#backend----top) ---[*FRONTEND*](#frontend) ---[*TOP*](#full-stack-web-development-projectsroadmap)
+## [*FRONTEND*](#frontend) --- [*BACKEND*](#backend----top) --- [*TOP*](#full-stack-web-development-projectsroadmap)
+
+---
+## MERN
+1. Mern Stack Introduction
+1. Frontend and Backend Folder Setup
+1. eNoteBook database and express Server Setup
+1. Creating Routes & Schema
+1. Storing Data into the Database Using Mongoose Model
+1. Creating a Special database Name
+1. Creating ThunderClient Collections to Manage Requests
+1. Creating Signup EndPoint
+1. Understanding Password Hashing, Salt
+1. Hashing Passwords using bcryptjs in NodeJs
+1. Creating Login EndPoint
+1. Creating a middleware to decode user from a JWT
+1. Creating Endpoints for get All notes and Add Note in notes.js
+1. Updating an existing Note
+1. Creating Endpoint for deleting a Note
+1. Creating Endpoint for Get Notes by Id
+1. Integrate all APIs with frontend
+
+### MERN STACK PROJECT IDEAS
+|Features|1. Travel Log App|Features|2. Public blog App|
+|---|---|---|---|
+|1.|Browse the travel experiences of other people|1. |Login/Signup to the application
+|2.|Ad their own experience|2. |Create articles
+|3.|Travellers can add multiple factors to an experience|3. |View a List of all the articles
+|4.|Location|4. |Edit/Delete his/her articles
+|5.|Images of the Location|5. |Add categories, tags, and filters to list blog page
+|6.|Cost of Travel|6. |Follow other articles’ authors
+|7.|Heritages of the location|7. |Favorite/like articles
+|8.|Places to Visit|8. |Add comments to the articles
+
+|Features|3. Workout Tracker App|Features|4. Real-time Chat App|
+|---|---|---|---|
+|1.| Access a wide range of exercise options |1.|Login/Signup to access the application
+|2.| Add your own set of exercises |2.|Invite people to use emails
+|3.| Add your weekly/daily schedule |3.|Create chat rooms
+|4.| The view of the workout routine of others  |4.|Add one-on-one chat with other users 
+|5.| As workout-related queries through a forum
+
+
+### 5. E-Commerce Website
+- A user-facing application
+- An admin dashboard for managing products
+- Users can do the following things on this application.
+- Login/Register for visit application
+- Browse through different products
+- Filter products based on category, price, etc
+- Like/review products
+- Add them to the cart/wish list
+- Edit/Delete his/her account
+- Admin can do the following tasks on the admin dashboard:
+- Add/list products
+- Update product details, quantity, etc.
+- View list of all the users
+- Block/unblock a particular user
+
+### 6. Bookstore Library & Stock Keeping app
+   1. User Interface
+   2. Admin Interface
+
+   Users registered for this application can:
+   - Browse books from the library
+   - Filter them based on category, author, publications, etc
+   - Pay & Rent them for a specific duration
+   - Like/Review them
+
+   Admin of this application can:
+
+   - List/manage books
+   - Track rented books and their availability.
+   - Send notifications via email to users once the lease expires.
+
+### 7.Hospital Management App
+- View a list of doctors from different specialty 
+- View available surgeries/therapies options 
+- Schedule an appointment at a particular time 
+- View application progress status 
+- Get medical reports 
+
+This will help doctors to :
+
+- View their appointments
+- Show their availability for the hospital
+- Track the patient's application status
+
+### 8. Video Conferencing App/Website
+1. Video/Audio Conferencing
+   It's essential that all communication, including whiteboard doodling so that others can see your point/opinion,
+   texting, emoting, etc, takes place in real-time (you may use Socket.io for it).
+2. Video-recording
+
+### 9.Personal Project Management Tool
+
+---
+## [*MERN*](#mern) --- [*FRONTEND*](#frontend) --- [*BACKEND*](#backend----top) --- [*TOP*](#full-stack-web-development-projectsroadmap)
+---
