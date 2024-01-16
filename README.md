@@ -1,13 +1,13 @@
 # FULL-STACK WEB DEVELOPMENT PROJECTS/RoadMap
 |No.|FRONTEND|No.|BACKEND|
 |---|---|---|---|
-|1. | [HTML](#html)                  |8. |[Node JS](#node-js) 
-|2. | [CSS](#css)                    |9. |[Express JS](#express-js) 
-|3. | [JavaScript](#javascript)      |10.|[Rest API](#rest-api) 
-|4. | [React JS](#react-js)          |11.|[Mongo DB](#mongo-db) 
-|5. | [Redux ToolKit](#redux-toolkit)|
-|6. | [FIREBASE](#firebase)          |
-|7. | [TypeScript](#typescript)      |
+|1. | [HTML](#html)                  |8. |[Node JS](#node-js) |
+|2. | [CSS](#css)                    |9. |[Express JS](#express-js) |
+|3. | [JavaScript](#javascript)      |10.|[Rest API](#rest-api) |
+|4. | [React JS](#react-js)          |11.|[Mongo DB](#mongo-db) |
+|5. | [Redux ToolKit](#redux-toolkit)|12.|[MERN](#mern) |
+|6. | [FIREBASE](#firebase)          |13.|[MERN PROJECTS](#mern-stack-project-ideas) |
+|7. | [TypeScript](#typescript)      |14.|[Next JS]() |
 ---
 ### Download Resources
    [Link](./Learning/README.md)
@@ -204,7 +204,9 @@
    1. How to Handle the Change Event
 
 ---
-## BACKEND ---[*TOP*](#full-stack-web-development-projectsroadmap)
+## [*FRONTEND*](#frontend) --- [*TOP*](#full-stack-web-development-projectsroadmap)
+---
+## BACKEND
 
 ### Node JS
 1. Nodes Introduction
@@ -345,5 +347,9 @@ This will help doctors to :
 ### 9.Personal Project Management Tool
 
 ---
+### Next JS
+![*NextJS*](/Learning/Resources/nextjs.png)
+
+___
 ## [*MERN*](#mern) --- [*FRONTEND*](#frontend) --- [*BACKEND*](#backend----top) --- [*TOP*](#full-stack-web-development-projectsroadmap)
 ---
