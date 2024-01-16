@@ -1,4 +1,4 @@
-# FULL-STACK WEB DEVELOPMENT PROJECTS/RoadMap
+# FULL-STACK WEB DEVELOPMENT PROJECTS/ROADMAP
 
 |No.|FRONTEND|No.|BACKEND|
 |---|---|---|---|
@@ -8,10 +8,11 @@
 |4. | [React JS](#react-js)          |11.|[Mongo DB](#mongo-db) |
 |5. | [Redux ToolKit](#redux-toolkit)|12.|[MERN](#mern) |
 |6. | [FIREBASE](#firebase)          |13.|[MERN PROJECTS](#mern-stack-project-ideas) |
-|7. | [TypeScript](#typescript)      |14.|[Next JS]() |
+|7. | [TypeScript](#typescript)      |14.|[Next JS](#next-js) |
 ---
 ### Download Resources
    [Link](./Learning/README.md)
+   
 ---
    ## FRONTEND PROJECTS
    ### HTML CSS PROJECTS
