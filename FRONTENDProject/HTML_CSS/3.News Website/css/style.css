@@ -116,5 +116,62 @@ nav hr{
 
 #sec1hr{
     border: 2px solid #131313;
-    width: 83%;
+    max-width: 83%;
+}
+
+/* art and culture */
+.highlight-h1{
+    margin: 22px 0;
+    font-size: 33px;
+}
+#second-sec-content{
+    display: flex;
+    gap: 22px;
+}
+.second-sec-mainclass {
+    border:  1px solid green;
+    max-width: 446px;
+}
+.second-sec-mainclass img{
+    max-width: 404px;
+    max-height: 290px;
+    border-radius: 2px;
+}
+.sec-img-div{
+    margin-top: 22px;
+    border: 1px solid black;
+}
+.sec-img-div .cat{
+    color: red;
+    font-weight: bold;
+}
+
+.sec-img-div h2{
+    margin: 8px 0;
+    font-weight: bold;
+}
+.sec-img-div h2:hover{
+    color: #C70D0D;
+    cursor: pointer;
+}
+.sec-img-div p{
+font-weight: bold;
+}
+
+.by:hover{
+    color: #C70D0D;
+    cursor: pointer;
+}
+
+/* #ades{
+    width: 185px;
+    height: 588px;
+    background-color: #131313;
+} */
+
+/* thied section */
+.sec3hr{
+    border: 2px solid #131313;
+    /* max-width: 83%; */
+    margin: 55px 0;
 }

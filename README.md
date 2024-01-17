@@ -1,5 +1,9 @@
 # FULL-STACK WEB DEVELOPMENT PROJECTS/ROADMAP
-
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+---
 |No.|FRONTEND|No.|BACKEND|
 |---|---|---|---|
 |1. | [HTML](#html)                  |8. |[Node JS](#node-js) |
@@ -351,7 +355,8 @@ This will help doctors to :
 ### 9.Personal Project Management Tool
 
 ---
-## Next JS
+## Next JS 
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 
 ![*NextJS*](/Learning/Resources/nextjs.png)
 
