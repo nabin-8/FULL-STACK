@@ -258,7 +258,7 @@
 1. MongoDB Join
 
 ---
-### [*FRONTEND*](#frontend) --- [*BACKEND*](#backend----top) --- [*TOP*](#full-stack-web-development-projectsroadmap)
+### [*FRONTEND*](#frontend) --- [*BACKEND*](#backend) --- [*TOP*](#full-stack-web-development-projectsroadmap)
 
 ---
 ## MERN
@@ -361,5 +361,5 @@ This will help doctors to :
 ![*NextJS*](/Learning/Resources/nextjs.png)
 
 ___
-### [*MERN*](#mern) --- [*FRONTEND*](#frontend) --- [*BACKEND*](#backend----top) --- [*TOP*](#full-stack-web-development-projectsroadmap)
+### [*MERN*](#mern) --- [*FRONTEND*](#frontend) --- [*BACKEND*](#backend) --- [*TOP*](#full-stack-web-development-projectsroadmap)
 ---
