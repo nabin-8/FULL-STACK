@@ -40,7 +40,11 @@
 #seprator{
     margin: 22px 0;
 }
-
+/* nav{
+    border: 1px solid blue;
+    position: fixed;
+    top: 0;
+} */
 #nav-content{
     display: flex;
     gap: 40px;
@@ -174,4 +178,30 @@ font-weight: bold;
     border: 2px solid #131313;
     /* max-width: 83%; */
     margin: 55px 0;
+}
+
+/* Fourth section */
+#fourth-sec{
+    margin: 3% 0;
+    color: white;
+    background-color: #131313;
+    height: 800px;
+}
+
+#fourth-sec-main{
+    border: 1px solid green;
+    margin: 0 5% 0  5%;
+}
+
+#fourth-sec-main #fourth-h1{
+    margin: 35px 0;
+    font-size: 31px;
+}
+#fourth-sec-content{
+    display: flex;
+}
+
+/* Bottom Content #fifth */
+#bottom-content{
+    margin: 0 5% 0  5%;
 }
