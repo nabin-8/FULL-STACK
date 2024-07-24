@@ -1,7 +1,5 @@
-function greet(username) {
-    console.log("Hello", username);
+function greetings(username) {
+    console.log(`Hello ${username}`);
 }
 
-// tell other file you can use this same function
-
-module.exports = greet;
+module.exports = greetings;
